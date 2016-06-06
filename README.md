@@ -1,1 +1,1 @@
-# mvc_project
+# stribog just for fun
